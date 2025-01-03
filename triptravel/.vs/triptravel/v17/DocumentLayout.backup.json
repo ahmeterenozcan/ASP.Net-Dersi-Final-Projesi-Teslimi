@@ -1,0 +1,671 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\triptravelwebproject\\triptravel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\shared\\_testlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\shared\\_testlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\default\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\default\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|d:\\triptravelwebproject\\triptravel\\triptravel\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\iletisim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\iletisim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\blog\\blogdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\blog\\blogdetay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\blog\\yorumyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\blog\\yorumyap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\controllers\\girisyapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\models\\siniflar\\blogyorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\models\\siniflar\\blogyorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\models\\siniflar\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\models\\siniflar\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\models\\siniflar\\hakkimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\models\\siniflar\\hakkimizda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\models\\siniflar\\havadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\models\\siniflar\\havadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\admin\\yeniblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\admin\\yeniblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\admin\\bloggetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\admin\\bloggetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\controllers\\iletisimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\models\\siniflar\\yorumlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\models\\siniflar\\yorumlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\models\\siniflar\\adresblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\models\\siniflar\\adresblog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\models\\siniflar\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\models\\siniflar\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\admin\\yorumgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\admin\\yorumgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\admin\\yorumlistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\admin\\yorumlistesi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\girisyap\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|D:\\triptravelwebproject\\triptravel\\triptravel\\models\\siniflar\\iletisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C10B03-6A3A-4657-BCAF-F94880768A9C}|triptravel\\triptravel.csproj|solutionrelative:triptravel\\models\\siniflar\\iletisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_TestLayout.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Shared\\_TestLayout.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Shared\\_TestLayout.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Shared\\_TestLayout.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Shared\\_TestLayout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T23:08:21.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Default\\About.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Default\\About.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Default\\About.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Default\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:32:22.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\About\\Index.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:32:26.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\iletisim\\Index.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\iletisim\\Index.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\iletisim\\Index.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\iletisim\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:31:51.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Default\\Index.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T23:20:20.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:32:47.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YorumYap.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Blog\\YorumYap.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Blog\\YorumYap.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Blog\\YorumYap.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Blog\\YorumYap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:39:52.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "triptravel\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "triptravel\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:51:38.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogDetay.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Blog\\BlogDetay.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Blog\\BlogDetay.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Blog\\BlogDetay.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Blog\\BlogDetay.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAYwIEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T23:08:30.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Web.config",
+              "RelativeDocumentMoniker": "triptravel\\Web.config",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Web.config",
+              "RelativeToolTip": "triptravel\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-21T17:22:23.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwGIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:39:53.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GirisYapController.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\GirisYapController.cs",
+              "RelativeDocumentMoniker": "triptravel\\Controllers\\GirisYapController.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\GirisYapController.cs",
+              "RelativeToolTip": "triptravel\\Controllers\\GirisYapController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:45:16.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\Blog.cs",
+              "RelativeDocumentMoniker": "triptravel\\Models\\Siniflar\\Blog.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\Blog.cs",
+              "RelativeToolTip": "triptravel\\Models\\Siniflar\\Blog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:45:05.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hakkimizda.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\Hakkimizda.cs",
+              "RelativeDocumentMoniker": "triptravel\\Models\\Siniflar\\Hakkimizda.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\Hakkimizda.cs",
+              "RelativeToolTip": "triptravel\\Models\\Siniflar\\Hakkimizda.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:32:39.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogYorum.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\BlogYorum.cs",
+              "RelativeDocumentMoniker": "triptravel\\Models\\Siniflar\\BlogYorum.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\BlogYorum.cs",
+              "RelativeToolTip": "triptravel\\Models\\Siniflar\\BlogYorum.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:37:09.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Havadurumu.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\Havadurumu.cs",
+              "RelativeDocumentMoniker": "triptravel\\Models\\Siniflar\\Havadurumu.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\Havadurumu.cs",
+              "RelativeToolTip": "triptravel\\Models\\Siniflar\\Havadurumu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:26:54.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "YeniBlog.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Admin\\YeniBlog.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Admin\\YeniBlog.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Admin\\YeniBlog.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Admin\\YeniBlog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T20:55:14.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogGetir.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Admin\\BlogGetir.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Admin\\BlogGetir.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Admin\\BlogGetir.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Admin\\BlogGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T20:55:12.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:05:07.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:05:06.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "triptravel\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "triptravel\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:51:49.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "triptravel\\Controllers\\AboutController.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "triptravel\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:51:52.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "triptravel\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "triptravel\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:51:45.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "iletisimController.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\iletisimController.cs",
+              "RelativeDocumentMoniker": "triptravel\\Controllers\\iletisimController.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\iletisimController.cs",
+              "RelativeToolTip": "triptravel\\Controllers\\iletisimController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:31:56.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Yorumlar.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\Yorumlar.cs",
+              "RelativeDocumentMoniker": "triptravel\\Models\\Siniflar\\Yorumlar.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\Yorumlar.cs",
+              "RelativeToolTip": "triptravel\\Models\\Siniflar\\Yorumlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:45:10.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdresBlog.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\AdresBlog.cs",
+              "RelativeDocumentMoniker": "triptravel\\Models\\Siniflar\\AdresBlog.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\AdresBlog.cs",
+              "RelativeToolTip": "triptravel\\Models\\Siniflar\\AdresBlog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:45:09.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "triptravel\\Models\\Siniflar\\AnaSayfa.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\AnaSayfa.cs",
+              "RelativeToolTip": "triptravel\\Models\\Siniflar\\AnaSayfa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:45:08.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\packages.config",
+              "RelativeDocumentMoniker": "triptravel\\packages.config",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\packages.config",
+              "RelativeToolTip": "triptravel\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-21T17:22:36.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Global.asax.cs",
+              "RelativeDocumentMoniker": "triptravel\\Global.asax.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Global.asax.cs",
+              "RelativeToolTip": "triptravel\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T17:22:37.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Web.config",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Web.config",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Web.config",
+              "RelativeToolTip": "triptravel\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-21T17:22:39.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "triptravel\\Controllers\\DefaultController.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "triptravel\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T16:51:40.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Scripts\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "triptravel\\Scripts\\bootstrap.min.js",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Scripts\\bootstrap.min.js",
+              "RelativeToolTip": "triptravel\\Scripts\\bootstrap.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-21T16:51:33.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Partial1.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Default\\Partial1.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Default\\Partial1.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Default\\Partial1.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Default\\Partial1.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T18:00:49.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "YorumGetir.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Admin\\YorumGetir.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Admin\\YorumGetir.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Admin\\YorumGetir.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Admin\\YorumGetir.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:05:19.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "YorumListesi.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Admin\\YorumListesi.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Admin\\YorumListesi.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Admin\\YorumListesi.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Admin\\YorumListesi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:32:49.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\GirisYap\\Login.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\GirisYap\\Login.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\GirisYap\\Login.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\GirisYap\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:05:10.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:05:05.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:04:41.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "triptravel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "triptravel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:04:27.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "iletisim.cs",
+              "DocumentMoniker": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\iletisim.cs",
+              "RelativeDocumentMoniker": "triptravel\\Models\\Siniflar\\iletisim.cs",
+              "ToolTip": "D:\\triptravelwebproject\\triptravel\\triptravel\\Models\\Siniflar\\iletisim.cs",
+              "RelativeToolTip": "triptravel\\Models\\Siniflar\\iletisim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:32:06.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+﻿@model triptravel.Models.Siniflar.BlogYorum
+
+@{
+    ViewBag.Title = "BlogDetay";
+    Layout = "~/Views/Shared/_TestLayout.cshtml";
+}
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Personal Blog | Blog Detay</title>
+    <link href="~/web2/css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <link href="~/web2/css/style.css" rel='stylesheet' type='text/css' />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <!-- Google Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Oswald:100,400,300,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,300italic' rel='stylesheet' type='text/css'>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+<body>
+    <!-- Üst Kısım (Header) -->
+    <div class="header">
+        <!-- Eğer bir header kısım varsa buraya ekleyebilirsin -->
+    </div>
+
+    <!-- Blog Detay Bölümü -->
+    <div class="single">
+        <div class="container">
+            <div class="row">
+                <!-- Sol / Orta Kısım: Blog İçerik ve Yorumlar -->
+                <div class="col-md-8 single-main" style="font-family: 'Georgia', serif;">
+
+                    <!-- Blog İçeriği (Deger1) -->
+                    <div class="single-grid">
+                        @foreach (var x in Model.Deger1)
+                        {
+                            <img src="@x.BlogImage" alt="" style="margin-bottom:20px" />
+                            <h4 style="font-family: 'Georgia', serif;">@x.Baslik</h4>
+                            <p style="font-family: 'Georgia', serif; white-space: pre-line;">
+                                @Html.Raw(HttpUtility.HtmlDecode(x.Aciklama))
+                            </p>
+                        }
+                    </div>
+
+                    <!-- Video URL varsa -->
+                    @if (!string.IsNullOrEmpty(Model.VideoUrl))
+                    {
+                        <div style="margin: 20px 0; text-align: center;">
+                            <iframe width="560" height="315"
+                                    src="@Model.VideoUrl"
+                                    title="YouTube video player"
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen>
+                            </iframe>
+                        </div>
+                    }
+
+                    <!-- Yorumlar (Deger2) -->
+                    @foreach (var yorum in Model.Deger2)
+                    {
+                        <ul class="comment-list">
+                            <li>
+                                <img src="~/web2/images/avatar.png" class="img-responsive" alt="Avatar">
+                                <div class="desc">
+                                    <p>@yorum.KullaniciAdi : @yorum.Yorum</p>
+                                </div>
+                                <div class="clearfix"></div>
+                            </li>
+                        </ul>
+                    }
+
+                    <!-- Yorum Ekleme (YorumYap Partial) -->
+                    @Html.Action("YorumYap", "Blog")
+                </div>
+
+                <!-- Sağ Kısım: Son Gönderiler, Paylaş Linkleri ve Hava Durumu -->
+                <div class="col-md-4 side-content">
+
+                    <!-- SON GÖNDERİLER (Deger4) -->
+                    <div class="recent">
+                        <h3>SON GÖNDERİLER</h3>
+                        @foreach (var y in Model.Deger4)
+                        {
+                            <ul style="list-style-type: none; padding: 0;">
+                                <li style="margin-bottom: 15px; display: flex; align-items: center;">
+                                    <img src="@y.BlogImage" alt="@y.Baslik"
+                                         style="width: 50px; height: 50px; object-fit: cover; margin-right: 10px; border-radius: 5px;" />
+                                    <a href="/Blog/BlogDetay/@y.ID"
+                                       style="text-decoration: none; color: #333; font-weight: bold;">
+                                        @y.Baslik
+                                    </a>
+                                </li>
+                            </ul>
+                        }
+                    </div>
+
+                    <!-- Paylaş Linkleri -->
+                    <div class="share-links"
+                         style="margin-top: 20px; border-top: 3px solid #ff6f61; padding-top: 15px; margin-bottom: 20px;">
+                        <h4 style="margin-bottom: 15px; font-size: 20px; font-family: Arial, sans-serif; color: #333; text-align: center;">
+                            <span style="color: #ff6f61;">Bu Bloğu Paylaş</span>
+                        </h4>
+                        <div style="display: flex; justify-content: center; gap: 20px;">
+                            <a href="https://twitter.com/intent/tweet?text=Check out this blog!&url=@Request.Url"
+                               target="_blank">
+                                <img src="/web2/images/twitter-icon.png"
+                                     alt="Twitter'da Paylaş"
+                                     style="width: 50px; height: 50px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                            </a>
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=@Request.Url"
+                               target="_blank">
+                                <img src="/web2/images/facebook-icon.png"
+                                     alt="Facebook'ta Paylaş"
+                                     style="width: 50px; height: 50px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- HAVA DURUMU BİLGİSİ -->
+                    @if (Model.WeatherData != null
+                        && Model.WeatherData.weather != null
+                        && Model.WeatherData.weather.Count > 0
+                        && Model.WeatherData.main != null)
+                    {
+                        <div class="weather-info"
+                             style="margin-top: 20px; border-top: 3px solid #ff6f61; padding-top: 15px;">
+                            <h4>
+                                 Şehrin Güncel Hava Durumu
+                                
+                            </h4>
+                            
+                            <p>Sıcaklık: @Model.WeatherData.main.temp °C</p>
+                            <p>Hissedilen: @Model.WeatherData.main.feels_like °C</p>
+                            <p>Nem: @Model.WeatherData.main.humidity %</p>
+                           
+                            <p>
+                                
+                                <img src="@($"https://openweathermap.org/img/wn/{Model.WeatherData.weather[0].icon}@2x.png")"
+                                     alt="Hava İkon" />
+                            </p>
+                        </div>
+                    }
+                    else
+                    {
+                        <p style="color: red; margin-top: 20px;">Hava durumu bilgisi alınamadı.</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

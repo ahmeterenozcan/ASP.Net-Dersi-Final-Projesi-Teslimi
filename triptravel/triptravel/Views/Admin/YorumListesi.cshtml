@@ -1,0 +1,37 @@
+﻿@using triptravel.Models.Siniflar
+@model List<Yorumlar>
+@{
+    ViewBag.Title = "YorumListesi";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>YorumListesi</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Kullanıcı</th>
+        <th>Mail</th>
+        <th>Yorum</th>
+        <th>Blog</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+    <tr>
+        
+        <th>@x.ID</th>
+        <th>@x.KullaniciAdi</th>
+        <th>@x.Mail</th>
+        <th>@x.Yorum</th>
+        <th>@x.Blog.Baslik</th>
+        <th>
+            <a href="/Admin/YorumSil/@x.ID" class="btn btn-danger" onclick="return confirm('Bu yorumu silmek istediğinizden emin misiniz?')">Sil</a>
+            
+        </th>
+        <th><a href="/Admin/YorumGetir/@x.ID" class="btn btn-warning">Güncelle</a></th>
+        
+    </tr>
+    }
+</table>
